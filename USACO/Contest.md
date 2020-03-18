@@ -1,5 +1,30 @@
 # USACO Contests
 
+## Season 2007-2008
+
+### 2007 Oct
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P1474 | Cow Cash |
+|      | T2   | P6200 | Super Paintball |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2666 | Bessie's Secret Pasture |
+|      | T2   | P1649 | Obstacle Course |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Privileged Cows |
+|      | T2   | CF914A | Perfect Squares |
+
 ## Season 2010-2011
 
 ### 2010 Oct
