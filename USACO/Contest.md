@@ -117,25 +117,77 @@
 
 |      | 编号 | 题号  | 题目名       |
 | ---- | ---- | ----- | ------------ |
-|      | T1   | P2898 | Making the Grade |
-|      | T2   | P2897 | Cow Game |
-|      | T3   | P2899 | Hotel |
+|      | T1   | P2893 | Making the Grade |
+|      | T2   |  | Cow Game |
+|      | T3   | P2895 | Hotel |
 
 #### Silver
 
 |      | 编号 | 题号  | 题目名       |
 | ---- | ---- | ----- | ------------ |
-|      | T1   | P2419 | Cow Contest |
-|      | T2   | P1353 | Running |
-|      | T3   | P1948 | Telephone Lines |
+|      | T1   | P2665 | Game of Lines |
+|      | T2   | P2895 | Meteor Shower |
+|      | T3   | P2896 | Eating Together |
 
 #### Bronze
 
 |      | 编号 | 题号  | 题目名       |
 | ---- | ---- | ----- | ------------ |
-|      | T1   |  | Costume Party |
-|      | T2   |  | Election Time |
-|      | T3   | P2035 | iCow |
+|      | T1   | P2837 | Dining Cows |
+|      | T2   |  | Long Distance Racing |
+|      | T3   |  | Cow Multiplication |
+
+### 2008 Mar
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2900 | Land Acquisition |
+|      | T2   | P2901 | Cow Jogging |
+|      | T3   | P2902 | Pearl Pairing |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2903 | The Loathesome Hay Baler |
+|      | T2   | P1535 | Cow Travelling |
+|      | T3   | P2904 | River Crossing |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Statistics |
+|      | T2   |  | Lake Making |
+|      | T3   |  | Oh Those Rollers |
+
+### 2008 Open
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | The Ultimate Battle |
+|      | T2   | P2905 | Crisis on the Farm |
+|      | T3   | P2906 | Cow Neighborhoods |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2907 | Roads Around The Farm |
+|      | T2   | P2908 | Word Power |
+|      | T3   | P2909 | Cow Cars |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Best Grass |
+|      | T2   |  | Going to the Movies |
+|      | T3   |  | Clear Cold Water |
 
 ## Season 2010-2011
 
