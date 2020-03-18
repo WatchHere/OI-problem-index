@@ -25,6 +25,118 @@
 |      | T1   |  | Privileged Cows |
 |      | T2   | CF914A | Perfect Squares |
 
+### 2007 Nov
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2885 | Telephone Wire |
+|      | T2   | P2886 | Cow Relays |
+|      | T3   | P2887 | Sunscreen |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2888 | Cow Hurdlesessie's Secret Pasture |
+|      | T2   | P2889 | Milking Time |
+|      | T3   | P6140 | Best Cow Line |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Exploration |
+|      | T2   |  | Speed Reading |
+|      | T3   |  | Avoid The Lakes |
+
+### 2007 Dec
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2868 | Sightseeing Cows |
+|      | T2   | P2869 | Gourmet Grazers |
+|      | T3   | P2870 | Best Cow Line |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2871 | Charm Bracelet |
+|      | T2   | P2872 | Building Roads |
+|      | T3   | P2873 | Mud Puddles |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2676 | Bookshelf |
+|      | T2   | P2677 | Bookshelf 2 |
+|      | T3   |  | Card Stacking |
+
+### 2007 CHn
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P6202 | Summing Sums |
+|      | T2   | P6203 | The Bovine Accordion and Banjo Orchestra |
+|      | T3   | P6204 | Treasure |
+
+### 2008 Jan
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2898 | Haybale Guessing |
+|      | T2   | P2897 | Artificial Lake |
+|      | T3   | P2899 | Cell Phone Network |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2419 | Cow Contest |
+|      | T2   | P1353 | Running |
+|      | T3   | P1948 | Telephone Lines |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Costume Party |
+|      | T2   |  | Election Time |
+|      | T3   | P2035 | iCow |
+
+### 2008 Feb
+
+#### Gold
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2898 | Making the Grade |
+|      | T2   | P2897 | Cow Game |
+|      | T3   | P2899 | Hotel |
+
+#### Silver
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   | P2419 | Cow Contest |
+|      | T2   | P1353 | Running |
+|      | T3   | P1948 | Telephone Lines |
+
+#### Bronze
+
+|      | 编号 | 题号  | 题目名       |
+| ---- | ---- | ----- | ------------ |
+|      | T1   |  | Costume Party |
+|      | T2   |  | Election Time |
+|      | T3   | P2035 | iCow |
+
 ## Season 2010-2011
 
 ### 2010 Oct
